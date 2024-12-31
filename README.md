@@ -1,19 +1,20 @@
 # Slicing UI Wallet App
 
 ## Dashboard
-<div>
+<div style="text-align: center;">
   <img src="assets/github/1.png" alt="Alt Text" width="200"/>
 </div>
 
 ## Transfer
-<div>
+<div style="text-align: center;">
   <img src="assets/github/2.png" alt="Alt Text" width="200"/>
 </div>
 
 ## Wallet
-<div>
+<div style="text-align: center;">
   <img src="assets/github/3.png" alt="Alt Text" width="200"/>
 </div>
+
 
 
 
