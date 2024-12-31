@@ -1,9 +1,8 @@
 # Slicing UI Wallet App
 
-![Alt Text](assets/github/1.png) <br>
-![Alt Text](assets/github/2.png) <br>
-![Alt Text](assets/github/3.png) <br>
-![Alt Text](assets/github/4.png) <br>  
+![Alt Text](assets/github/1.png) <br> <br>
+![Alt Text](assets/github/2.png) <br> <br>
+![Alt Text](assets/github/3.png) <br> <br>
 
 
 A new Flutter project.
