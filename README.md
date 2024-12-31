@@ -1,4 +1,4 @@
-# testing_aplication
+# Slicing UI Wallet App
 
 A new Flutter project.
 
